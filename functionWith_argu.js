@@ -64,3 +64,12 @@ console.log('Result is ', resultValue);
 
 var result =addition('GK', 'Pune');
 console.log('Result is ', result);
+
+
+
+console.log('-----------------------------------------');
+
+function display(){
+    return "learning Js";
+}
+var resultDisplay
