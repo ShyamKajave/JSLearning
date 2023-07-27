@@ -40,10 +40,10 @@ console.log(`-------------------------------------------------`);
 var sentence = function(){
 var str = ('JS is most populer language of internet')
 var sentence1 = str.split(' ');
-var totalChar = sentence1.length;
+var totalChar = str.length;
 console.log(`1. Total number of char. are : ${totalChar}`); 
 var index = str.charAt(6);
-console.log(`2. Character at 6 11 index is: ${index}`);
+console.log(`2. Character at 6 index is: ${index}`);
 var index2 = str.charAt(11);
 console.log(`3.Character at 11 index is: ${index2} `);
 
