@@ -61,6 +61,7 @@ function stringHansOn(){
 
     var wordEndsWith= afterTrim.endsWith('up');
     console.log(`9. Is String Ends With Word up: "${wordEndsWith}"`);
+    
 
     console.log('-----------------------------------');
 
